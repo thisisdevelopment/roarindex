@@ -1,3 +1,7 @@
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/thisisdevelopment/roarindex/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/thisisdevelopment/roarindex/tree/master)
+[![GoDoc](https://godoc.org/github.com/thisisdevelopment/roarindex?status.svg)](https://godoc.org/github.com/thisisdevelopment/roarindex)
+
+
 # RoarIndex
 
 RoarIndex is a high-performance, memory-efficient indexing data structure for Go that leverages Roaring Bitmaps to provide fast set operations and lookups. It is designed to handle large-scale data indexing with optimal performance.
