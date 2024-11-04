@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"slices"
 
-	"roarindex"
+	"github.com/thisisdevelopment/roarindex"
 )
 
 func ExampleRoarIndex() {

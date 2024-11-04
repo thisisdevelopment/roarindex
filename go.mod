@@ -1,4 +1,4 @@
-module roarindex
+module github.com/thisisdevelopment/roarindex
 
 go 1.23.2
 
