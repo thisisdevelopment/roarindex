@@ -1,6 +1,6 @@
 # RoarIndex
 
-RoarIndex is a high-performance, memory-efficient indexing data structure that leverages Roaring Bitmaps to provide fast set operations and lookups. It is designed to handle large-scale data indexing with optimal performance.
+RoarIndex is a high-performance, memory-efficient indexing data structure for Go that leverages Roaring Bitmaps to provide fast set operations and lookups. It is designed to handle large-scale data indexing with optimal performance.
 
 ## Features
 
@@ -123,7 +123,7 @@ checks if the value exists in the "testMap" key.
 
 ## About Us Th[is]
 
-[This](https://this.nl) is a digital agency based in Utrecht, specializing in crafting high-performance, resilient, and scalable digital solutions, api's, microservices, and more. Our multidisciplinary team of designers, front and backend developers and strategists collaborates closely to deliver robust and efficient products that meet the demands of today's digital landscape. We are passionate about turning ideas into reality and providing exceptional value to our clients through innovative technology and exceptional user experiences.
+[This](https://this.nl) is a digital agency based in Utrecht, the Netherlands, specializing in crafting high-performance, resilient, and scalable digital solutions, api's, microservices, and more. Our multidisciplinary team of designers, front and backend developers and strategists collaborates closely to deliver robust and efficient products that meet the demands of today's digital landscape. We are passionate about turning ideas into reality and providing exceptional value to our clients through innovative technology and exceptional user experiences.
 
 ## Contributing
 
