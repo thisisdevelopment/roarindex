@@ -1,3 +1,6 @@
+
+[![Go Report Card](https://goreportcard.com/badge/github.com/thisisdevelopment/roarindex)](https://goreportcard.com/report/github.com/thisisdevelopment/roarindex)
+[![codecov](https://codecov.io/gh/thisisdevelopment/roarindex/graph/badge.svg?token=TVUYXGF24Q)](https://codecov.io/gh/thisisdevelopment/roarindex)
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/thisisdevelopment/roarindex/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/thisisdevelopment/roarindex/tree/master)
 [![GoDoc](https://godoc.org/github.com/thisisdevelopment/roarindex?status.svg)](https://godoc.org/github.com/thisisdevelopment/roarindex)
 
